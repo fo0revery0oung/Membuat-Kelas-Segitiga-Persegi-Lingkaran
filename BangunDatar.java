@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Main23 {
+public class BangunDatar {
     public static void main(String[] args){
         Scanner in = new Scanner (System.in);
         Segitiga s = new Segitiga ();
